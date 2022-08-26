@@ -5,3 +5,4 @@ from . import professor
 from . import subject
 from . import professor
 from . import classroom
+from . import department
